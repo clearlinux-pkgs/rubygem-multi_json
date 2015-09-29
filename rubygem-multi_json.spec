@@ -4,7 +4,7 @@
 #
 Name     : rubygem-multi_json
 Version  : 1.11.2
-Release  : 5
+Release  : 6
 URL      : https://rubygems.org/downloads/multi_json-1.11.2.gem
 Source0  : https://rubygems.org/downloads/multi_json-1.11.2.gem
 Summary  : No detailed summary available
